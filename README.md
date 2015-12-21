@@ -6,3 +6,5 @@
  - [http request](https://github.com/runemadsen/HTTP-Requests-for-Processing)
  - [simple websocket client](https://github.com/labatrockwell/wsp5/fork)
  - [gif animation](https://github.com/zhangw/gif-animation)
+##references
+ - [create gif with processing and eclipse](http://www.mrbenson.org/creating-gif-animations-with-processing-and-eclipse/)
